@@ -1,0 +1,2 @@
+# energy-load-forecasting
+The project aims to perform short term energy load forecasting using weekly historical energy load data along with weather parameters like Temperature, Wind Speed and Humidity. The entire data is of three major cities of Panama. ARIMAX models have been used for forecasting and the forecasting results have also been compared with the official weekly forecasts of the grid operator.
